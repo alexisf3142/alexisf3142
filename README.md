@@ -11,10 +11,13 @@ Skills: C++ / C / ASSEMBLY / PYTHON / LATEX
 - ⚡ Fun fact: My favorite video games are Minecraft and The Sims! 
 
 
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/github.svg' alt='github' height='40'>](https://github.com/alexisf3142) 
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexiskfrancis/) 
-[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alexiskfrancis) 
-[<img src='https://logotyp.us/files/creative-cloud.svg' alt='adobe' height='40'>](https://alexisfrancis.myportfolio.com/)  
+<a href="https://github.com/alexisf3142"><img alt="github" title="github" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/github.svg"></a>
+<a href="https://www.linkedin.com/in/alexiskfrancis/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/linkedin.svg"></a>
+<a href="https://twitter.com/alexiskfrancis"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/f9fd89c63d9f8c577d9a5c2c08dfd443b60bc4fa/assets/twitter.svg"></a>
+<a href="https://alexisfrancis.myportfolio.com/"><img alt="Adobe Portfolio" title="Adobe Portfolio" height="32" width="32" src="https://logotyp.us/files/creative-cloud.svg"></a>
+
+
+
 
 
 <!---
