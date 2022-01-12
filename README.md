@@ -4,7 +4,7 @@ I am currently in school pursuing a double major in Computer Science and Film an
 
 Skills: C++ / C / ASSEMBLY / PYTHON / LATEX
 
-- 🌱 I’m currently learning 3D animation in Maya and poking around the Unity engine! 
+- 🌱 I’m currently C# and how to use the Unity engine! 
 - 🤔 I’m looking for help with finding game design and software engineering internships! 
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/alexiskfrancis/)! 
 - 😄 Pronouns: she/her/hers 
